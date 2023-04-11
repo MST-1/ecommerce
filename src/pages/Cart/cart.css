@@ -99,7 +99,17 @@
     border-radius:100%;
   
   }
-
+.image{
+  
+  width:200px ;
+  height: 280px;
+}
+.sub:hover{
+  background: yellowgreen;
+}
+.add:hover{
+  background: yellowgreen;
+}
 
   @media (max-width: 800px) {
     .flex-item-right, .flex-item-left ,.cart{

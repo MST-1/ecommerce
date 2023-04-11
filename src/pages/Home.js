@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./home.css";
+import SingleProduct from "./SingleProduct";
 
 const Home=()=>{
 return(<div className="homebox">
@@ -72,7 +73,7 @@ return(<div className="homebox">
 
 
 
-Home
+<SingleProduct/>
 </div>)
 
 
