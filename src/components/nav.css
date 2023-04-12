@@ -41,7 +41,7 @@
   .logo{
     position: fixed;
     left: 10px;
-    top: 10px;
+    /* top: 10px; */
      color: aquamarine;
     
     
@@ -52,3 +52,9 @@
 
     width: 50px;
   }
+  .text{
+   
+  font-family:'AmstelvarAlpha';
+  font-style: normal;
+}
+  
